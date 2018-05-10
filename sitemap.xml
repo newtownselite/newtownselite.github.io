@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>nichtcomics.com/categories/</loc>
-    <priority>0</priority>
+    <loc>nichtcomics.com/</loc>
+    <lastmod>2017-11-02T10:20:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>nichtcomics.com/</loc>
+    <loc>nichtcomics.com/about/</loc>
+    <lastmod>2017-10-25T09:15:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>nichtcomics.com/galleries/</loc>
+  </url>
+  
+  <url>
+    <loc>nichtcomics.com/categories/</loc>
     <priority>0</priority>
   </url>
   
